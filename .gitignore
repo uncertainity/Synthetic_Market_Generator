@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Build / binaries
+build/
+bin/
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# Generated data
+Data_Output/*.csv
+Data_Output/**/*.csv
+Helper_Files/.ipynb_checkpoints/
+
+# Logs / temp
+*.log
+*.tmp
+*.swp
+
+# Python notebooks
+.ipynb_checkpoints/
